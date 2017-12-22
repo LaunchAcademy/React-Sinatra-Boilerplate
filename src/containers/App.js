@@ -1,7 +1,5 @@
 import React from 'react';
 
-import Frame from '../components/Frame.js'
-
 class App extends React.Component{
   constructor(props){
     super(props)
